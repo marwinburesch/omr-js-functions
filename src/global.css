@@ -1,0 +1,13 @@
+:root {
+  --main-bg-color: #5f585b;
+  --main-color: #c2b9ad;
+  --button-primary: #7d4e57;
+  --button-primary-color: #c2b9ad;
+}
+
+body {
+  background-color: var(--main-bg-color);
+  color: var(--main-color);
+}
+
+/* colors: ["285943","7d4e57","83a637","c2b9ad","5f585b"] */

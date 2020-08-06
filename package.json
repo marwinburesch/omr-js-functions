@@ -1,0 +1,30 @@
+{
+  "name": "omr-js-functions",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "dev:build": "webpack --watch",
+    "dev:server": "live-server dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marwinburesch/omr-js-functions.git"
+  },
+  "author": "marwinburesch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marwinburesch/omr-js-functions/issues"
+  },
+  "homepage": "https://github.com/marwinburesch/omr-js-functions#readme",
+  "devDependencies": {
+    "css-loader": "^4.2.0",
+    "file-loader": "^6.0.0",
+    "live-server": "^1.2.1",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
