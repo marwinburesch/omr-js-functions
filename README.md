@@ -8,5 +8,8 @@ Practice writing functions in JavaScript by writing them so the function calls i
 
 ## How to
 
+Init the repository after cloning
+`npm install`
+
 Look for comments in the code, make a file, write a function, import it.
 You don't need to change `app.js` ;)
