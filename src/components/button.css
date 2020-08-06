@@ -1,0 +1,14 @@
+.button_primary {
+  border: solid 3px var(--button-primary-color);
+  border-radius: 5px;
+  line-height: 2rem;
+  background-color: var(--button-primary);
+  color: var(--button-primary-color);
+  font-size: 1rem;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.button_primary:active {
+  transform: scale(0.95);
+}
