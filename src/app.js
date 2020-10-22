@@ -4,6 +4,7 @@ import add from "./exercises/add";
 import sum from "./exercises/sum";
 import filterNumbers from "./exercises/filterNumbers";
 import removeMonkey from "./exercises/removeMonkey"
+import fishHobbies from "./exercises/fishHobbies";
 
 const severalNumbers = [3, 4, 45, 7, 23, 7, 87, 3];
 const fruit = ["🍌", "🥝", "🍍", "🐒"];
