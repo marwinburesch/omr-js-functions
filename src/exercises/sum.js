@@ -18,15 +18,6 @@ export default function sum(numbers) {
 
 // ALTERNATIVES
 // export default function sum(numbers) {
-//   let result = 0;
-//   for (let index = 0; index < numbers.length; index++) {
-//     const element = numbers[index];
-//     result = element + result;
-//   }
-//   return result;
-// }
-
-// export default function sum(numbers) {
 //   return numbers.reduce(
 //     (accumulator, currentValue) => accumulator + currentValue
 //   );
