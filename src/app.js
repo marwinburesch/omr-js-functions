@@ -34,8 +34,8 @@ const filterArrayButton = createButton("Filter array", () =>
 );
 
 // EXERCISE 4
-// remove the monkey from "fruit" and
-// log both the result and the monkey
+// find the monkey in the array, log it (hint: within the function)
+// log both the array without the monkey
 const removeMonkeyButton = createButton("Separate monkey from fruit", () =>
   console.log(removeMonkey(fruit))
 );
